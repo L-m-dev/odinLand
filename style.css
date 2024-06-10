@@ -6,7 +6,7 @@ body{
 
 header{
     display:flex;
-    background-color: rgb(41, 41, 85);
+    background-color: #1F2937;
     color:white;
     justify-content: space-between;
     font-size: 40px;
@@ -25,9 +25,9 @@ header{
 .title-body{
     gap:20px;
     padding:100px 400px 100px 400px;
-    color:white;
+    color:#F9FAF8;
     display:flex;
-    background-color: rgb(41, 41, 85);
+    background-color: #1F2937;
     justify-content: center;
     flex-basis: 500px;
     
@@ -69,7 +69,7 @@ margin:50px;
 }
 
 .quote{
-    background-color: rgb(179, 179, 241);
+    background-color:#E5E7EB;
     text-align: center;
     padding: 100px;
 }
@@ -105,10 +105,11 @@ justify-content: center;
 align-items: center;
 color:white;
 text-align: center;
- background-color: rgb(41, 41, 85);
+ background-color: #1F2937;
  }
 
  .description .sign-button{
-    background-color: aqua;
-    color:black;
+    background-color: #3222F6;
+    color:wheat;
+    font-size: 18px;
  }
